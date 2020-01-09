@@ -1,7 +1,7 @@
 # Assignment
 
-##1.Subset the data for only the Exocrine (adenocarcinoma) tumors and remove Neuroendocrine tumors.
-
+## 1.Subset the data for only the Exocrine (adenocarcinoma) tumors and remove Neuroendocrine tumors.
+### analyis was carried out in [phantus](https://genome.ifmo.ru/phantasus)
 What does the analysis say about the general behavior of the different samples?
 * Most common type of Pancreatic Adenocarcinoma is exocrine and neuroendocrine are minority
 
