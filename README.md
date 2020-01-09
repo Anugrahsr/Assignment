@@ -9,3 +9,9 @@ What does the analysis say about the general behavior of the different samples?
 Are the neuroendocrine tumors clearly separable from the adenocarcinoma tumors?
 * By using PCA neuroendocrine tumors are clearly separable from adenocarcinoma tumor
 ![alt text](./newplot(2).png)
+
+What can be said about the variance of the PCA?
+
+
+Used the filter option in the menu bar to filter out neuroendocrine tumors
+[dataset](./subset(1).gct)
