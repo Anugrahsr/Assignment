@@ -15,3 +15,7 @@ What can be said about the variance of the PCA?
 
 Used the filter option in the menu bar to filter out neuroendocrine tumors
 [dataset](./subset(1).gct)
+
+## 2.  Understand the effect of Interferons in Pancreatic Adenocarcinoma
+
+subsetted [dataset](./gsva.gct) for GSVA analysis
